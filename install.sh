@@ -13,7 +13,7 @@ if [ -f "noxproxy" ]; then
 fi
 wget -q https://github.com/ninostn/proxy/raw/main/noxproxy
 sleep 1
+clear
 echo -e "${GREEN}NOX PROXY is now Installed.${ENDCOLOR}"
-echo -e "${RED}PROXY BY @ninostn${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./noxproxy${ENDCOLOR}"
 chmod +x noxproxy
