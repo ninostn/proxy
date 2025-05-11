@@ -7,7 +7,7 @@ echo -e "${GREEN}Installing Proxy...${ENDCOLOR}"
 sleep 1
 if [ -f "noxproxy" ]; then
     echo -e "${RED}Deleting old proxy...${ENDCOLOR}"
-    rm proxy
+    rm noxproxy
     sleep 1
     echo -e "${GREEN}Getting proxy...${ENDCOLOR}"
 fi
