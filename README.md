@@ -1,4 +1,4 @@
-7# 📥 1. DOWNLOAD TERMUX  
+# 📥 1. DOWNLOAD TERMUX  
 👉 [CLICK HERE](https://github.com/termux/termux-app/releases)
 
 ---
