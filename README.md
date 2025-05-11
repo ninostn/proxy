@@ -36,4 +36,4 @@ wget https://github.com/ninostn/proxy/raw/main/install.sh && bash install.sh
 
 ---
 # JOIN DISCORD:
- --**NOX PROXY DISCORD** [CLICK](https://discord.gg/8K8EGWRm8c)
+[**NOX PROXY DISCORD**](https://discord.gg/8K8EGWRm8c)
