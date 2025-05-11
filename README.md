@@ -1,4 +1,4 @@
-# 📥 1. DOWNLOAD TERMUX  
+7# 📥 1. DOWNLOAD TERMUX  
 👉 [CLICK HERE](https://github.com/termux/termux-app/releases)
 
 ---
@@ -36,4 +36,4 @@ wget https://github.com/ninostn/proxy/raw/main/install.sh && bash install.sh
 
 ---
 # JOIN DISCORD:
- --**NOX PROXY DISCORD** [CLICK](https://discord.gg/8K8EGWRm8c]
+ --**NOX PROXY DISCORD** [CLICK](https://discord.gg/8K8EGWRm8c)
