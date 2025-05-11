@@ -1,5 +1,5 @@
 # 📥 1. DOWNLOAD TERMUX  
-👉 [CLICK HERE](https://f-droid.org/en/packages/com.termux/)
+👉 [CLICK HERE](https://github.com/termux/termux-app/releases)
 
 ---
 
@@ -19,13 +19,13 @@ wget https://github.com/ninostn/proxy/raw/main/install.sh && bash install.sh
 ---
 
 ## 🔗 LINKS:
-- **POWER TUNNEL:** [CLICK](https://example.com/powertunnel)  
-- **VIRTUAL HOST:** [CLICK](https://example.com/virtualhost)  
+- **POWER TUNNEL:** [CLICK](https://github.com/krlvm/PowerTunnel-Android/releases/download/v2.6.3/PowerTunnel.apk)  
+- **VIRTUAL HOST:** [CLICK](https://github.com/x-falcon/Virtual-Hosts/releases/download/2.1.0/app-Github-release.apk)  
 
 ---
 
 ## 📁 HOST:
-[📄 hosts.txt](./hosts.txt) *(68 bytes)*
+[📄 hosts.txt](https://cdn.discordapp.com/attachments/1371009381260333156/1371015238945734739/hosts.txt?ex=682198f1&is=68204771&hm=f610c9aba4ecb96900078a323a380eeab4e0bbd655b6475155883445154ca16c&) *(68 bytes)*
 
 ---
 
@@ -33,3 +33,7 @@ wget https://github.com/ninostn/proxy/raw/main/install.sh && bash install.sh
 
 🇮🇩 **LOGIN DULU TERUS DOWNLOAD ITEMS.DAT GROWTOPIA KALIAN SEBELUM PAKAI PROXY**  
 🇺🇸 **LOGIN FIRST AND DOWNLOAD YOUR GROWTOPIA ITEMS.DAT BEFORE USING PROXY**
+
+---
+# JOIN DISCORD:
+ --**NOX PROXY DISCORD** [CLICK](https://discord.gg/8K8EGWRm8c]
